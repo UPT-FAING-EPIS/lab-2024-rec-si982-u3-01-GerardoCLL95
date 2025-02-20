@@ -673,6 +673,7 @@ swa deploy ./publish/wwwroot -n upt-swa-XXX --env production
 15. En el Terminal, se visualizara el link de la Webapp Estatica, hacer click en el para verificar los resultados.
 
 ![image](https://github.com/user-attachments/assets/463ed443-3843-44a1-95bf-c7a9aa999666)
+![image](https://github.com/user-attachments/assets/d38536b5-ae8e-4d96-b37a-d335407ff09c)
 
 
 ## ACTIVIDADES ENCARGADAS
