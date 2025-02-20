@@ -555,6 +555,9 @@ az functionapp deployment source config-zip -g upt-arg-373 -n upt-afn-373 --src 
 7. En el Navegador, abrir una nueva pestaña e ingresar a la url https://upt-afn-XXX.azurewebsites.net/api/shorturl
 >Donde: XXX, id de su azure function
 
+![image](https://github.com/user-attachments/assets/6cec40fb-d305-4dfd-a182-f5d50bc8678f)
+
+
 ### CONSTRUCCION DE LA APLICACION - FRONTEND
 
 8. En el Terminal, volver a la carpeta src, y ejecutar los siguientes comandos para crear la aplicación web estatica
@@ -670,6 +673,7 @@ swa deploy ./publish/wwwroot -n upt-swa-XXX --env production
 15. En el Terminal, se visualizara el link de la Webapp Estatica, hacer click en el para verificar los resultados.
 
 ![image](https://github.com/user-attachments/assets/463ed443-3843-44a1-95bf-c7a9aa999666)
+![image](https://github.com/user-attachments/assets/d38536b5-ae8e-4d96-b37a-d335407ff09c)
 
 
 ## ACTIVIDADES ENCARGADAS
