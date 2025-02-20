@@ -685,12 +685,12 @@ swa deploy ./publish/wwwroot -n upt-swa-XXX --env production
 
 3. Realizar el escaneo del codigo de terraform utilizando TfSec o Trivy dentro del Github Action. (2ptos)
 
-![lab_02](https://github.com/user-attachments/assets/2babb5a4-fe26-4c21-8b45-e55e47db7a71)
+![image](https://github.com/user-attachments/assets/7e512b43-da66-4e71-b180-204aa6733060)
 
    
 5. En la aplicación completar con las demas funcionalidades, de crear, actualizar y eliminar (4ptos)
 
-![lab_02](https://github.com/user-attachments/assets/3bb2467b-25c4-4384-a4d8-a592e23bf579)
+![image](https://github.com/user-attachments/assets/7b0c1962-fe1c-4df4-a19e-aed5363a8641)
 
    
 7. Realizar el escaneo de vulnerabilidad con SonarCloud y Semgrep dentro del Github Action correspondiente. (2ptos)
